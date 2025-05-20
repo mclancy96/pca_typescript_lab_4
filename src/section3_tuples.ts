@@ -3,3 +3,7 @@
 // Then, create a variable origin of type Point and assign it the value [0, 0].
 
 // Your code here 👇
+
+type Point = [number, number];
+
+const destination: Point = [0, 0];
